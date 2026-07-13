@@ -211,9 +211,16 @@ At the top it’ll say “GitHub Pages source saved”. Wait a bit and refresh t
 
 ![Hello World Page Load](assets/hello-world-page-load.png)
 
+<!-- **Write down in notes** – everyone should be able to screenshot their page
+showing the text they wrote in their `index.md`.
+
+**Write down in notes** – Conduct the following experiment: -->
+
 Note that in addition to seeing your file at, e.g, [https://jpolitz.github.io/cse-15l-lab-report/](https://jpolitz.github.io/cse-15l-lab-report/), you can also see it with `index.html` added to the end of the URL: [https://jpolitz.github.io/cse-15l-lab-report/index.html](https://jpolitz.github.io/cse-15l-lab-report/index.html) (Try it!).
 
 **Do now!** Add another file to your repository with any name you choose, but end it in the extension `.md`. Can you use this idea to see that file?
+
+<!-- Write down what you think is happening when you commit a new file. -->
 
 ### Editing Markdown
 
@@ -223,6 +230,10 @@ The `.md` extension stands for “Markdown,” which is a particular text form
 - [What is Markdown?](https://www.markdownguide.org/getting-started/)
 
 Skim both of those documents, then try to use some of the elements described in the cheat sheet in your `index.md` file. How do some of the different formatting options show up when you use them? Are any surprising?
+
+<!-- **Write down in notes** – Try all of the formatting in the “Basic Syntax” part
+of the markdown cheat sheet above; everyone should screenshot their page that
+uses all of these. -->
 
 You should now have:
 
