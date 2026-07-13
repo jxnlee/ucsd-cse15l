@@ -17,6 +17,7 @@ Your discussion leader (the tutor/TA in your lab) will share a Google Doc with y
   - Your favorite place you’ve found on campus so far
   - A useful campus shortcut or trick you know
 - Your answer to the following question. Discuss why you chose that answer.
+  ![rulers](assets/rulers.png)
 
 ## Part 2 - Your CSE15L Account
 
