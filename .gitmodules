@@ -1,9 +1,6 @@
 [submodule "WeeklyTasks/Week2/wavelet"]
 	path = WeeklyTasks/Week2/wavelet
 	url = git@github.com:jxnlee/ucsd-cse15l-wavelet.git
-[submodule "WeeklyTasks/Week3/lab3"]
-	path = WeeklyTasks/Week3/lab3
-	url = git@github.com:jxnlee/ucsd-cse15l-lab3.git
 [submodule "WeeklyTasks/Week4/docsearch"]
 	path = WeeklyTasks/Week4/docsearch
 	url = git@github.com:jxnlee/ucsd-cse15l-docsearch.git
